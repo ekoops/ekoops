@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leonardo!</h1>
 <h3 align="center">Code writer, things learner and pizza eater (yeah, I'm italian) 😊</h3>
 
-- 🔭 I’m currently working on **Golang, Kubernetes and eBPF projects**
+I'm currently an Open Source Engineer @ [Sysdig](https://sysdig.com/), and a reviewer/maintainer of different [falcosecurity](https://github.com/falcosecurity/) projects!
 
-- 🌱 I’m currently learning **Software design principles**
+- 🔭 I’m currently working on **Golang, Kubernetes, C, C++, Rust and eBPF projects**
 
-- 🌱 I would like to learn **Rust**
+- 🌱 I’m currently improving my **Rust skills**
 
 - 👨‍💻 All of my (public) projects are available at [https://github.com/ekoops?tab=repositories](https://github.com/ekoops?tab=repositories)
 
-- 😭 (Un)fun fact: **I've mainly contributed to private/corporate projects till now** 😭😭😭
-
-- ☁️ I'm looking forwards to **join open-source projects**
+- ☁️ Always looking forwards to **join new interesting open-source projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
