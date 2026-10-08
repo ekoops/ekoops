@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo!</h1>
 <h3 align="center">Code writer, things learner and pizza eater (yeah, I'm italian) 😊</h3>
 
-I'm currently an Open Source Engineer @ [Sysdig](https://sysdig.com/), and a reviewer/maintainer of different [falcosecurity](https://github.com/falcosecurity/) projects!
+I'm currently a Software Engineer @ [Isovalent](https://isovalent.com/), mainly working on Cilium!
+
+I'm also reviewer/maintainer of different [falcosecurity](https://github.com/falcosecurity/) projects.
 
 - 🔭 I’m currently working on **Golang, Kubernetes, C, C++, Rust and eBPF projects**
 
